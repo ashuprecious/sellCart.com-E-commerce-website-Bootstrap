@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## SellCart.com
 
-You can use the [editor on GitHub](https://github.com/ashuprecious/sellCart.com-E-commerce-website-Bootstrap/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here is the E -Commerce website created with BootStrap by Ashutosh Kumar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link to Visit This Site -> https://ashuprecious.github.io/sellCart.com-E-commerce-website-Bootstrap/
 
-### Markdown
+#Home Page
+Here is the page Snap->
+![image](https://user-images.githubusercontent.com/48045926/196847921-a34db280-9d26-40b1-8e7c-7a62efdab633.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/48045926/196847975-d05d0460-dd7e-43a7-910c-aacde9f80e01.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#About Page->
+![image](https://user-images.githubusercontent.com/48045926/196848227-83775f99-6cb4-4d82-8402-6162c4e799c0.png)
 
-- Bulleted
-- List
+#Contact Page->
+![image](https://user-images.githubusercontent.com/48045926/196848292-a440bfac-c553-4b8f-a358-98442e8781bb.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashuprecious/sellCart.com-E-commerce-website-Bootstrap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks,
+Ashutosh Kumar
